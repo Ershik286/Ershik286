@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://i.ytimg.com/vi/PiF4K5PuloU/maxresdefault.jpg)">
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-LIGHTMODE-IMAGE">
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/PiF4K5PuloU/maxresdefault.jpg">
+<!--  <source media="(prefers-color-scheme: dark)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-LIGHTMODE-IMAGE"> -->
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
