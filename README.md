@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
   <img width="12" />
 </div>
 
