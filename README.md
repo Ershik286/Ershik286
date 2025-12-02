@@ -11,6 +11,12 @@
   <img width="12" />
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+</div>
 
 ## Hi there 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ershik286&langs_count=3&theme=dark&title_color=FFF)
