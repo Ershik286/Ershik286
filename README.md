@@ -32,7 +32,5 @@
   <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij logo"  />
 </div>
 
-<div align="center">
 ## Hi there 👋
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ershik286&langs_count=3&theme=dark&title_color=FFF)
-</div>
