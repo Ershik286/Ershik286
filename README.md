@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="java logo" />
+  <img width="12" />
 </div>
 
 <div align="center">
@@ -16,6 +18,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij logo"  />
 </div>
 
 ## Hi there 👋
