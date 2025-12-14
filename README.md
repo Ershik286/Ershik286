@@ -7,6 +7,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
@@ -30,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="Android Studio logo"  />
 </div>
 
 ## Hi there 👋
