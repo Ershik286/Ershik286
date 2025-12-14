@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="sublime logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=intellij" height="40" alt="intellij logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo"  />
 </div>
 
