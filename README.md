@@ -5,10 +5,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
